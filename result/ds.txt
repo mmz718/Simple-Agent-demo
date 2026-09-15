@@ -1,0 +1,13 @@
+简单的Agent Loop
+运行结果示例：
+
+
+s01: Agent Loop (DeepSeek)
+Enter a question, press Enter to send. Type q to quit.
+
+s01 >> 介绍你自己
+我是 Claude Code，Anthropic 官方的命令行编程助手。我可以帮你阅读、编写和调试代码，运行命令，检索代码库等。
+
+有什么需要我帮忙的吗？
+
+s01 >> q
